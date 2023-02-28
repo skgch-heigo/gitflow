@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Стальмахова Мария Петровна
-=======
 Artyom
->>>>>>> origin/feature/listArtyom
